@@ -5,7 +5,7 @@
 @@||akamaitechnologies.com^$important
 @@||akamaized.net^$important
 @@||amazonaws.com^$important
-@@||android.clients.google.com
+@@||android.clients.google.com^$important
 @@||api.ipify.org^$important
 @@||api.rlje.net^$important
 @@||app-api.ted.com^$important
