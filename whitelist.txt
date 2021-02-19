@@ -23,7 +23,6 @@
 @@||cdn.embedly.com^$important
 @@||cdn.optimizely.com^$important
 @@||cdn.vidible.tv^$important
-@@||cdn.optimizely.com^$important
 @@||cdn2.optimizely.com^$important
 @@||cdn3.optimizely.com^$important
 @@||cdnjs.cloudflare.com^$important
@@ -34,7 +33,7 @@
 @@||clients3.google.com^$important
 @@||clients4.google.com^$important
 @@||clients5.google.com^$important
-@@||clients5.google.com^$important
+@@||clients6.google.com^$important
 @@||cpms.spop10.ams.plex.bz^$important
 @@||cpms35.spop10.ams.plex.bz^$important
 @@||cse.google.com^$important
