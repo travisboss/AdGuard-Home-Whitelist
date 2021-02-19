@@ -1,5 +1,4 @@
 @@||0.client-channel.google.com^$important
-@@||0.client-channel.google.com^$important
 @@||1drv.com^$important
 @@||2.android.pool.ntp.org^$important
 @@||akamaihd.net^$important
