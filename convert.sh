@@ -1,1 +1,1 @@
-curl -fsSL https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/whitelist.txt | sed -e 's/^/@@||/' -e 's/$/\^important/' > whitelist.txt
+curl -fsSL https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/whitelist.txt | sed -e 's/^/@@||/' -e 's/$/\^/' > whitelist.txt
